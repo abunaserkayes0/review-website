@@ -15,11 +15,11 @@ const Footer = () => {
                         <p>Fax: 1.800.123.4566</p>
                     </div>
                 </div>
-                <div className="">
-                    <i class="fab fa-facebook-square fa-3x mx-3"></i>
-                    <i class="fab fa-instagram-square fa-3x mx-3"></i>
-                    <i class="fab fa-linkedin fa-3x mx-3"></i>
-                    <i class="fab fa-vimeo fa-3x mx-3"></i>
+                <div>
+                    <i className="fab fa-facebook-square fa-3x mx-3"></i>
+                    <i className="fab fa-instagram-square fa-3x mx-3"></i>
+                    <i className="fab fa-linkedin fa-3x mx-3"></i>
+                    <i className="fab fa-vimeo fa-3x mx-3"></i>
                 </div>
             </footer>
         </div>
