@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <Navbar bg="light" variant="light">
                 <Container>
-                <Navbar.Brand>Learning.</Navbar.Brand>
+                <Navbar.Brand className="fw-bold">Learning Languages.</Navbar.Brand>
                 <Nav className="ms-auto">
                 <NavLink className="nav-link" to="/home">Home</NavLink>
                 <NavLink className="nav-link" to="/about">About</NavLink>
