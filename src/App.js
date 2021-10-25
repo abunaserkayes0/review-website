@@ -6,6 +6,7 @@ import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
 import AllLanguages from './Component/AllLanguages/AllLanguages';
 import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
+import Contact from './Component/Contact/Contact';
 
 
 function App() {
@@ -24,7 +25,9 @@ function App() {
           <Route path="/service">
             <AllLanguages></AllLanguages>
           </Route>
-          <Route path="/contact"></Route>
+          <Route path="/contact">
+            <Contact></Contact>
+          </Route>
           <Route path="*">
             <NotFound></NotFound>
           </Route>
