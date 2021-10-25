@@ -6,9 +6,9 @@ const TopRatedLanguage = () => {
     const[ratedLanguages,setRatedLanguages]=useState([]);
     useEffect(() => {
         fetch('./fakeDb.json')
-        .then(response => response.json())
-        .then(data=>setRatedLanguages(data.top))
-    }, [])
+            .then(response => response.json())
+            .then(data=>setRatedLanguages(data.slice(0,4)))
+    },[])
     const bannerImageUrl = 'https://i.ibb.co/PgRmRxD/banner-image.png';
     return (
         <div>

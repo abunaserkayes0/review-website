@@ -1,5 +1,5 @@
-{
-    "top": [{
+
+        [{
             "id": 101,
             "name": "English",
             "price": "$645.26",
@@ -36,9 +36,8 @@
             "author_name": "Lisa Claussen",
             "author_image":"https://i.ibb.co/PQRwcsq/resized-image-Promo.jpg",
             "website": "slideshare.net"
-        }
-    ],
-    "all": [{
+        },
+      {
         "id": 105,
         "name": "Polish",
         "price": "$610.58",
@@ -48,7 +47,7 @@
         "author_image":"https://i.ibb.co/SmM8Vzj/resized-image-romo.jpg",
         "website": "goo.gl"
     }, {
-        "id": 105,
+        "id": 106,
         "name": "Korean",
         "price": "$489.06",
         "image": "https://i.ibb.co/qJCRFPT/korean.png",
@@ -137,5 +136,5 @@
         "author_name": "Gretel Gouldbourn",
         "author_image":"https://i.ibb.co/PZSFYsn/pexels-andrea-piacquadio-3778212.jpg",
         "website": "virginia.edu"
-    }]
-}
+    }
+        ]

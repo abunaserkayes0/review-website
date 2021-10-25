@@ -5,6 +5,8 @@ import Header from './Component/Header/Header';
 import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
 import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
+import AllLanguages from './Component/AllLanguages/AllLanguages';
+
 
 function App() {
   return (
@@ -19,7 +21,9 @@ function App() {
             <TopRatedLanguage></TopRatedLanguage>
           </Route>
           <Route path="/about"></Route>
-          <Route path="/service"></Route>
+          <Route path="/service">
+            <AllLanguages></AllLanguages>
+          </Route>
           <Route path="/contact"></Route>
           <Route path="*">
             <NotFound></NotFound>

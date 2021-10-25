@@ -1,0 +1,8 @@
+.service-image{
+    max-height:200px;
+}
+.author-image{
+    max-height:50px;
+    max-width:50px;
+    border-radius:50%;
+}
