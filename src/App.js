@@ -7,6 +7,7 @@ import NotFound from './Component/NotFound/NotFound';
 import AllLanguages from './Component/AllLanguages/AllLanguages';
 import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
 import Contact from './Component/Contact/Contact';
+import About from './Component/About/About';
 
 
 function App() {
@@ -21,7 +22,9 @@ function App() {
           <Route path="/home">
             <TopRatedLanguage></TopRatedLanguage>
           </Route>
-          <Route path="/about"></Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
           <Route path="/service">
             <AllLanguages></AllLanguages>
           </Route>

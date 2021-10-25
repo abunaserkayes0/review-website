@@ -9,7 +9,7 @@ const AllLanguages = () => {
     useEffect(() => {
         fetch('./fakeDb.json')
             .then(response => response.json())
-            .then(data=>setAllLanguages(data))
+            .then(data=>setAllLanguages(data.slice(0,8)))
     },[])
     return (
         <div className="container my-5">

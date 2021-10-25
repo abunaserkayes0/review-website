@@ -2,7 +2,6 @@ import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import './Services.css'
 const Services = (props) => {
-    console.log(props.allLanguage);
     const {name,image,price,author_name,author_image} = props.allLanguage;
     return (
         <div>
