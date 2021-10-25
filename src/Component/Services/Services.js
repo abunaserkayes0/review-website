@@ -11,15 +11,15 @@ const Services = (props) => {
                     <Card.Img className="service-image" src={image}/>
                     <Card.Body className="d-md-flex justify-content-around align-items-center">
                             <div className="text-center">
-                            <Card.Title className="fw-bold">{name}</Card.Title>
-                            <br />
-                                <Card.Title className="fw-bold">{price}</Card.Title>
+                                <Card.Title className="fw-bold mt-2">{name}</Card.Title>
+                                <Card.Title className="fw-bold mt-3">{price}</Card.Title>
                             </div>
                             <div className="text-center">
                                 <Card.Img className="author-image" src={author_image}/>
                                 <Card.Title className="fw-bold">{author_name}</Card.Title>
                             </div>
                     </Card.Body>
+                    <button className="btn btn-primary w-50 mx-auto my-3">Enroll Now</button>
                 </Card>
             </Col>
         </div>

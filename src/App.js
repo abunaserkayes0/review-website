@@ -4,8 +4,8 @@ import './App.css';
 import Header from './Component/Header/Header';
 import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
-import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
 import AllLanguages from './Component/AllLanguages/AllLanguages';
+import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/">
-            <TopRatedLanguage></TopRatedLanguage>
+           <TopRatedLanguage></TopRatedLanguage>
           </Route> 
           <Route path="/home">
             <TopRatedLanguage></TopRatedLanguage>

@@ -12,7 +12,7 @@ const AllLanguages = () => {
             .then(data=>setAllLanguages(data))
     },[])
     return (
-        <div className="my-5">
+        <div className="container my-5">
             <Row xs={1} md={3} className="g-5">
             {
                 allLanguages.map(allLanguage=><Services key={allLanguage.id} allLanguage={allLanguage}></Services>)
