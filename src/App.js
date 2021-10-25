@@ -1,10 +1,10 @@
 import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Home from './Component/Home/Home';
 import Header from './Component/Header/Header';
 import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
+import TopRatedLanguage from './Component/TopRatedLanguage/TopRatedLanguage';
 
 function App() {
   return (
@@ -13,10 +13,10 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path="/">
-            <Home></Home>
+            <TopRatedLanguage></TopRatedLanguage>
           </Route> 
           <Route path="/home">
-            <Home></Home>
+            <TopRatedLanguage></TopRatedLanguage>
           </Route>
           <Route path="/about"></Route>
           <Route path="/service"></Route>

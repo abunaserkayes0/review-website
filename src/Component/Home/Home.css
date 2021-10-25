@@ -1,3 +1,6 @@
 .banner-image img{
     max-width:300px;
 }
+.rated-image{
+    min-height:400px;
+}
