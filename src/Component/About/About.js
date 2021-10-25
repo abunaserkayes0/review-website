@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faSearchLocation,faBookReader,faCertificate} from '@fortawesome/free-solid-svg-icons'
+import { faSearchLocation, faBookReader, faCertificate } from '@fortawesome/free-solid-svg-icons';
 import './About.css';
 const About = () => {
     return (
