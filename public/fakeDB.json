@@ -1,6 +1,6 @@
 {
     "top": [{
-            "id": 9,
+            "id": 101,
             "name": "English",
             "price": "$645.26",
             "banner-image": "https://i.ibb.co/NK84GMx/english.jpg",
@@ -10,7 +10,7 @@
             "website": "umich.edu"
         },
         {
-            "id": 5,
+            "id": 102,
             "name": "Spanish",
             "price": "$467.29",
             "banner-image": "https://i.ibb.co/mb6d4zh/spanish.jpg",
@@ -19,7 +19,7 @@
             "author_image":"https://i.ibb.co/5vXSH56/pexels-victoria-borodinova-3671777.jpg",
             "website": "amazon.co.uk"
         }, {
-            "id": 6,
+            "id": 103,
             "name": "Arabic",
             "price": "$632.05",
             "banner-image": "https://i.ibb.co/L8rxKz5/arabic.jpg",
@@ -28,7 +28,7 @@
             "author_image":"https://i.ibb.co/PjKtJnN/reized-image-Promo.jpg",
             "website": "ihg.com"
         }, {
-            "id": 7,
+            "id": 104,
             "name": "French",
             "price": "$618.45",
             "banner-image": "https://i.ibb.co/0cmq0Gm/People-using-online-translation-app-translating-words-from-foreign-languages-with-mobile-service-Can.jpg",
@@ -39,7 +39,7 @@
         }
     ],
     "all": [{
-        "id": 1,
+        "id": 105,
         "name": "Polish",
         "price": "$610.58",
         "banner-image": "https://i.ibb.co/Qmb4LS6/polish.jpg",
@@ -48,7 +48,7 @@
         "author_image":"https://i.ibb.co/SmM8Vzj/resized-image-romo.jpg",
         "website": "goo.gl"
     }, {
-        "id": 2,
+        "id": 105,
         "name": "Korean",
         "price": "$489.06",
         "banner-image": "https://i.ibb.co/qJCRFPT/korean.png",
@@ -57,7 +57,7 @@
         "author_image":"https://i.ibb.co/VBYBjpF/resize-image-Promo.jpg",
         "website": "craigslist.org"
     }, {
-        "id": 3,
+        "id": 107,
         "name": "Dzongkha",
         "price": "$488.36",
         "banner-image": "https://i.ibb.co/2nKkfV7/Dzongkha.png",
@@ -66,7 +66,7 @@
         "author_image":"https://i.ibb.co/hKBd9z5/pexels-sora-shmazaki-5668774.jpg",
         "website": "earthlink.net"
     }, {
-        "id": 4,
+        "id": 108,
         "name": "Malayalam",
         "price": "$612.93",
         "banner-image": "https://i.ibb.co/JqB6X5q/Malayalam.jpg",
@@ -75,7 +75,7 @@
         "author_image":"https://i.ibb.co/bWFVMHc/pexels-pixabay-532220.jpg",
         "website": "infoseek.co.jp"
     }, {
-        "id": 8,
+        "id": 109,
         "name": "Kashmiri",
         "price": "$498.24",
         "banner-image": "https://i.ibb.co/XtbBp46/Kashmiri.png",
@@ -84,7 +84,7 @@
         "author_image":"https://i.ibb.co/CWV6VFH/pexels-pixabay-220453.jpg",
         "website": "feedburner.com"
     }, {
-        "id": 10,
+        "id": 110,
         "name": "Kazakh",
         "price": "$513.78",
         "banner-image": "https://i.ibb.co/qsGgbs5/Kazakh.jpg",
@@ -93,7 +93,7 @@
         "author_image":"https://i.ibb.co/QkjZDZM/pexels-mentatdgt-1024311-1.jpg",
         "website": "cloudflare.com"
     }, {
-        "id": 11,
+        "id": 111,
         "name": "Gujarati",
         "price": "$519.19",
         "banner-image": "https://i.ibb.co/B3whJzd/Gujarati.png",
@@ -102,7 +102,7 @@
         "author_image":"https://i.ibb.co/N1Kk6Jr/pexels-mentatdgt-937481.jpg",
         "website": "thetimes.co.uk"
     }, {
-        "id": 12,
+        "id": 112,
         "name": "Amharic",
         "price": "$572.50",
         "banner-image": "https://i.ibb.co/rf3QgxV/Amharic.png",
@@ -111,7 +111,7 @@
         "author_image":"https://i.ibb.co/0t8yqbK/pexels-luis-quintero-1575996.jpg",
         "website": "businessinsider.com"
     }, {
-        "id": 13,
+        "id": 113,
         "name": "Bengali",
         "price": "$593.05",
         "banner-image": "https://i.ibb.co/NKZK0dQ/Bengali.jpg",
@@ -120,7 +120,7 @@
         "author_image":"https://i.ibb.co/PrX6CB7/pexels-laura-garcia-4242995.jpg",
         "website": "thetimes.co.uk"
     }, {
-        "id": 14,
+        "id": 114,
         "name": "Kyrgyz",
         "price": "$573.22",
         "banner-image": "https://i.ibb.co/GtMNLsf/Kyrgyz.jpg",
@@ -129,7 +129,7 @@
         "author_image":"https://i.ibb.co/5k02SCn/pexels-dinielle-de-veyra-4195345.jpg",
         "website": "unicef.org"
     }, {
-        "id": 15,
+        "id": 115,
         "name": "Tajik",
         "price": "$471.11",
         "banner-image": "https://i.ibb.co/phSh9fy/Tajik.jpg",

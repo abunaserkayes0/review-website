@@ -12,7 +12,7 @@ const Home = () => {
                         <button className="btn btn-primary">Read More</button>
                     </div>
                     <div className="col-md-5">
-                        <div className="banner-image">
+                        <div className="banner-image mt-5">
                             <img src={logo} alt="" />
                         </div>
                     </div>
