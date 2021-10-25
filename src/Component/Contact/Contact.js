@@ -1,3 +1,4 @@
+/*This is Contact Component use Contact path*/
 import React from 'react';
 import './Contact.css';
 const Contact = () => {

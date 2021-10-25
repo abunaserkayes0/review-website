@@ -15,6 +15,7 @@ const Footer = () => {
                         <p>Fax: 1.800.123.4566</p>
                     </div>
                 </div>
+                {/*use Social-icon for bootstrap*/}
                 <div>
                     <i className="fab fa-facebook-square fa-3x mx-3"></i>
                     <i className="fab fa-instagram-square fa-3x mx-3"></i>

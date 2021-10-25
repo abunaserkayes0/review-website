@@ -1,4 +1,5 @@
-import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
+/*This is App.js Component */
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Header from './Component/Header/Header';
@@ -12,6 +13,7 @@ import About from './Component/About/About';
 
 function App() {
   return (
+    /*Use react-router */
     <div>
       <Router>
         <Header></Header>

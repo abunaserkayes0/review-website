@@ -1,3 +1,4 @@
+/* This is About Section */
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -13,6 +14,7 @@ const About = () => {
                     </Col>
                 </Row>
             </Container>
+            {/* About-Section Card */}
             <Container>
             <h2 className="text-center fw-bold my-5">Supreme Work Flow</h2>
                 <Row xs={1} md={3} className="g-4 text-center">

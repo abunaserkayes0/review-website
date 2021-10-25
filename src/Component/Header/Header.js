@@ -5,6 +5,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
+            {/*This is navBar section*/}
             <Navbar bg="light" variant="light">
                 <Container>
                 <Navbar.Brand className="fw-bold">Learning Languages.</Navbar.Brand>
