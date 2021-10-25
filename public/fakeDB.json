@@ -1,0 +1,170 @@
+{
+    "top": [{
+            "id": 9,
+            "name": "English",
+            "price": "$645.26",
+            "banner-image": "https://i.ibb.co/NK84GMx/english.jpg",
+            "university": "Universität Kassel",
+            "author_name": "Astrix Franceschielli",
+            "author_image":"https://i.ibb.co/M8VpF1n/pexels-teddy-joseph-2955376.jpg",
+            "website": "umich.edu"
+        },
+        {
+            "id": 5,
+            "name": "Spanish",
+            "price": "$467.29",
+            "banner-image": "https://i.ibb.co/mb6d4zh/spanish.jpg",
+            "university": "Kyoto Pharmaceutical University",
+            "author_name": "Alia Panichelli",
+            "author_image":"https://i.ibb.co/5vXSH56/pexels-victoria-borodinova-3671777.jpg",
+            "website": "amazon.co.uk"
+        }, {
+            "id": 6,
+            "name": "Arabic",
+            "price": "$632.05",
+            "banner-image": "https://i.ibb.co/L8rxKz5/arabic.jpg",
+            "university": "University of North Carolina at Charlotte",
+            "author_name": "Terri-jo Blagden",
+            "author_image":"https://i.ibb.co/PjKtJnN/reized-image-Promo.jpg",
+            "website": "ihg.com"
+        }, {
+            "id": 7,
+            "name": "French",
+            "price": "$618.45",
+            "banner-image": "https://i.ibb.co/0cmq0Gm/People-using-online-translation-app-translating-words-from-foreign-languages-with-mobile-service-Can.jpg",
+            "university": "Shanghai International Studies University",
+            "author_name": "Lisa Claussen",
+            "author_image":"https://i.ibb.co/PQRwcsq/resized-image-Promo.jpg",
+            "website": "slideshare.net"
+        }
+    ],
+    "all": [{
+        "id": 1,
+        "name": "Polish",
+        "price": "$610.58",
+        "banner-image": "https://i.ibb.co/Qmb4LS6/polish.jpg",
+        "university": "Ecole Nationale Supérieure d'Electronique, d'Electrotechnique, d'Informatique et d'Hydraulique de Toulouse",
+        "author_name": "Alberik Finch",
+        "author_image":"https://i.ibb.co/SmM8Vzj/resized-image-romo.jpg",
+        "website": "goo.gl"
+    }, {
+        "id": 2,
+        "name": "Korean",
+        "price": "$489.06",
+        "banner-image": "https://i.ibb.co/qJCRFPT/korean.png",
+        "university": "Aleksander Gieysztor School of Humanities in Pultusk",
+        "author_name": "Lisette Hazelby",
+        "author_image":"https://i.ibb.co/VBYBjpF/resize-image-Promo.jpg",
+        "website": "craigslist.org"
+    }, {
+        "id": 3,
+        "name": "Dzongkha",
+        "price": "$488.36",
+        "banner-image": "https://i.ibb.co/2nKkfV7/Dzongkha.png",
+        "university": "Vongchavalitkul University",
+        "author_name": "Di McGauhy",
+        "author_image":"https://i.ibb.co/hKBd9z5/pexels-sora-shmazaki-5668774.jpg",
+        "website": "earthlink.net"
+    }, {
+        "id": 4,
+        "name": "Malayalam",
+        "price": "$612.93",
+        "banner-image": "https://i.ibb.co/JqB6X5q/Malayalam.jpg",
+        "university": "College of St. Benedict and St. John's University",
+        "author_name": "Rogerio Gummow",
+        "author_image":"https://i.ibb.co/bWFVMHc/pexels-pixabay-532220.jpg",
+        "website": "infoseek.co.jp"
+    }, {
+        "id": 8,
+        "name": "Kashmiri",
+        "price": "$498.24",
+        "banner-image": "https://i.ibb.co/XtbBp46/Kashmiri.png",
+        "university": "Kyorin University",
+        "author_name": "Anallese Kelbie",
+        "author_image":"https://i.ibb.co/CWV6VFH/pexels-pixabay-220453.jpg",
+        "website": "feedburner.com"
+    }, {
+        "id": 10,
+        "name": "Kazakh",
+        "price": "$513.78",
+        "banner-image": "https://i.ibb.co/qsGgbs5/Kazakh.jpg",
+        "university": "Kongju National University of Education",
+        "author_name": "Zebulen Dawltrey",
+        "author_image":"https://i.ibb.co/QkjZDZM/pexels-mentatdgt-1024311-1.jpg",
+        "website": "cloudflare.com"
+    }, {
+        "id": 11,
+        "name": "Gujarati",
+        "price": "$519.19",
+        "banner-image": "https://i.ibb.co/B3whJzd/Gujarati.png",
+        "university": "Southern University - New Orleans",
+        "author_name": "Simonne Iannini",
+        "author_image":"https://i.ibb.co/N1Kk6Jr/pexels-mentatdgt-937481.jpg",
+        "website": "thetimes.co.uk"
+    }, {
+        "id": 12,
+        "name": "Amharic",
+        "price": "$572.50",
+        "banner-image": "https://i.ibb.co/rf3QgxV/Amharic.png",
+        "university": "Pontificia Universidad Catolica de Chile",
+        "author_name": "Mariam Leggett",
+        "author_image":"https://i.ibb.co/0t8yqbK/pexels-luis-quintero-1575996.jpg",
+        "website": "businessinsider.com"
+    }, {
+        "id": 13,
+        "name": "Bengali",
+        "price": "$593.05",
+        "banner-image": "https://i.ibb.co/NKZK0dQ/Bengali.jpg",
+        "university": "Universidad Católica Cecilio Acosta",
+        "author_name": "Angeline Normington",
+        "author_image":"https://i.ibb.co/PrX6CB7/pexels-laura-garcia-4242995.jpg",
+        "website": "thetimes.co.uk"
+    }, {
+        "id": 14,
+        "name": "Kyrgyz",
+        "price": "$573.22",
+        "banner-image": "https://i.ibb.co/GtMNLsf/Kyrgyz.jpg",
+        "university": "Quaid-i-Azam University",
+        "author_name": "Leodora Sliney",
+        "author_image":"https://i.ibb.co/5k02SCn/pexels-dinielle-de-veyra-4195345.jpg",
+        "website": "unicef.org"
+    }, {
+        "id": 15,
+        "name": "Tajik",
+        "price": "$471.11",
+        "banner-image": "https://i.ibb.co/phSh9fy/Tajik.jpg",
+        "university": "Grenoble Ecole de Management",
+        "author_name": "Gretel Gouldbourn",
+        "author_image":"https://i.ibb.co/PZSFYsn/pexels-andrea-piacquadio-3778212.jpg",
+        "website": "virginia.edu"
+    }]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
